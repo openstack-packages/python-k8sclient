@@ -146,3 +146,4 @@ rm -rf .testrepository
 %doc html doc/source/readme.rst
 
 %changelog
+# REMOVEME: error caused by commit 
