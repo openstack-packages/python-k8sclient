@@ -1,0 +1,8 @@
+Verified+1: rdo-ci-jenkins <whayutin+rdocijenkins@redhat.com>
+Code-Review+1: Chandan Kumar <chkumar246@gmail.com>
+Code-Review+2: Alan Pevec <alan.pevec@redhat.com>
+Submitted-by: Alan Pevec <alan.pevec@redhat.com>
+Submitted-at: Wed, 20 Apr 2016 07:43:08 -0400
+Reviewed-on: https://review.gerrithub.io/273571
+Project: openstack-packages/python-k8sclient
+Branch: refs/heads/rpm-master
